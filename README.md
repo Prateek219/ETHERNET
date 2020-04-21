@@ -38,6 +38,11 @@ to clear all that you have written that you wish not to send and F4 is
 used to display the message you received( Whenever you will have
 any unread message, the LED marked LEDN will be on, so youknow
 when to press F4)..
+___
+
+## CIRCUIT DIAGRAM
+![Screenshot (59)](https://user-images.githubusercontent.com/64007722/79829503-de043a80-83c0-11ea-8b0e-f6ed82db59b0.png)
+___
 
 ## BASIC FUNCTIONS
 There are some basic functions to control this ethernet IC you can
@@ -80,6 +85,7 @@ and transmits the data over lan
 
 • this function writes the received data in an array upto the
 maximum length provided.
+___
 
 ## JUST PLAY AROUND!!!
 Add the .c and .h files of enc28j60 given to you. Include the header
@@ -121,5 +127,5 @@ entries corresponding to various fields as described in their
 corresponding datagram (i.e. header+text) and then using
 packetsend function you can send the data to the destination.
 
-
+___
 .
