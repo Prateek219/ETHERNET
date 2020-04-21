@@ -1,4 +1,4 @@
-# ETHERNET CHaT CliENT TuToRial
+# ETHERNET CHAT ClIENT TUTORIAL
 ## WHAT YOU NEED
 Enc28j60 is an ethernet IC which transmits and receives the data
 over ethernet. You need just a microcontroller (the one we used is
